@@ -1,4 +1,4 @@
-# moppycodes.github.io
+# Information
 
 ## How to use Zenith.
 - Execute the /setup command in your desired server and full out the required options.
